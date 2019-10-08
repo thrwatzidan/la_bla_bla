@@ -1,6 +1,6 @@
 # la_bla_bla
 
-fire base chat app
+firebase chat app
 like whatapp
 built on firebase storage , database,notification,auth,image cutter
 
