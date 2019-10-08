@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184509602029",
+    "firebase_url": "https://lablabla-d29d7.firebaseio.com",
+    "project_id": "lablabla-d29d7",
+    "storage_bucket": "lablabla-d29d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184509602029:android:d9789f0b7c008313",
+        "android_client_info": {
+          "package_name": "com.dev.thrwat_zidan.la_bla_bla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184509602029-inq6obhhl1laa864m8ii0n5k7bcc51aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.thrwat_zidan.la_bla_bla",
+            "certificate_hash": "197190f88fd554aad672aa4d04519170181b7dbe"
+          }
+        },
+        {
+          "client_id": "184509602029-7iab1kc1m8u5v4rgq6a2jbh6gcn0i65s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTf8Ie2XydyFWGLXmP9Z5lfSeqEiGOpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184509602029-7iab1kc1m8u5v4rgq6a2jbh6gcn0i65s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
